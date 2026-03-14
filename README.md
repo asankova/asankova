@@ -6,7 +6,7 @@ Senior Engineering Manager • Backend • Data • Reliability • Agentic Work
 
 <p align="center">
 🇬🇧 London &nbsp;•&nbsp;
-🎰 MrQ
+🎰 MrQ &nbsp;•&nbsp;
 <img src="https://cdn.simpleicons.org/spotify" height="16"/> ex-Spotify &nbsp;•&nbsp;
 <img src="https://cdn.simpleicons.org/expedia" height="16"/> ex-Expedia &nbsp;•&nbsp;
 </p>
