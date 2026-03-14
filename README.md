@@ -55,9 +55,13 @@ I focus on **technical coaching, engineering leadership, and creating environmen
 
 - 🗣 Speak **6 languages**
 - ✈️ Travelled to **70+ countries**
+- 🤿 **PADI Advanced Open Water Diver**
+- 💻 **48in48 Contributor** – building websites for nonprofits
+- 🏥 **QNUK Level 1 Award in Health & Safety in the Workplace**
+- 🧠 **QNUK Level 1 Award in Mental Health Awareness**
 - 🌏 Strong believer in **global engineering culture**
 
-Those experiences shape how I work with teams — I adapt easily to different people, cultures, and perspectives, which helps me actively contribute to **DEIB initiatives and inclusive engineering environments**.
+Those experiences shape how I work with teams - I adapt easily to different people, cultures, and perspectives, which helps me actively contribute to **DEIB initiatives and inclusive engineering environments**.
 
 ---
 
