@@ -47,7 +47,7 @@ I focus on **technical coaching, engineering leadership, and creating environmen
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36"/>
 </p>
 
-`Kafka` `Spark` `Airflow` `Iceberg` `BigQuery` `Prometheus` `Grafana` `Claude` `Devin`
+`Kafka` `Spark` `Airflow` `Iceberg` `BigQuery` `Prometheus` `Grafana` `Claude Code`
 
 ---
 
