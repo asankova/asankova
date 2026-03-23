@@ -8,8 +8,8 @@ Backend • Data • Reliability • Agentic Workflows
 <p align="center">
 🇬🇧 London &nbsp;·&nbsp;
 🎰 <a href="https://www.mrq.com">MrQ</a> &nbsp;·&nbsp;
-<img src="https://cdn.simpleicons.org/spotify" height="16"/> ex-Spotify &nbsp;·&nbsp;
-<img src="https://cdn.simpleicons.org/expedia" height="16"/> ex-Expedia
+<img src="https://cdn.simpleicons.org/spotify" height="16"/> ex-(Spotify)[https://open.spotify.com/] &nbsp;·&nbsp;
+<img src="https://cdn.simpleicons.org/expedia" height="16"/> ex-(Expedia)[https://expediagroup.com/]
 </p>
 
 ---
