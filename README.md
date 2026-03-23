@@ -1,42 +1,41 @@
 <h1 align="center">Hi, I'm Sasha 👋</h1>
 
 <p align="center">
-Senior Engineering Manager • Backend • Data • Reliability • Agentic Workflows
+Engineering manager who still reads the diffs.<br/>
+Backend • Data • Reliability • Agentic Workflows
 </p>
 
 <p align="center">
-🇬🇧 London &nbsp;•&nbsp;
-🎰 MrQ &nbsp;•&nbsp;
-<img src="https://cdn.simpleicons.org/spotify" height="16"/> ex-Spotify &nbsp;•&nbsp;
+🇬🇧 London &nbsp;·&nbsp;
+🎰 <a href="https://www.mrq.com">MrQ</a> &nbsp;·&nbsp;
+<img src="https://cdn.simpleicons.org/spotify" height="16"/> ex-Spotify &nbsp;·&nbsp;
 <img src="https://cdn.simpleicons.org/expedia" height="16"/> ex-Expedia
 </p>
 
 ---
 
-### 👩‍💻 About
+### What I'm building
 
-Senior Engineering Manager with a background in **backend systems, data engineering, and site reliability**.
+I lead the team behind **MrQ's casino back-office platform** — the internal tooling that lets operators run the casino, apply regulatory controls, and not accidentally break things for millions of players. Compliance-heavy, data-heavy, uptime-matters-a-lot kind of work.
 
-Currently leading a team working on the **casino back-office platform at MrQ**, the internal tooling that helps operators run the casino and apply regulatory controls.
+Day-to-day that means **technical coaching, system design decisions, and creating the conditions where engineers ship their best work** — then getting out of the way.
 
-I focus on **technical coaching, engineering leadership, and creating environments where engineers can do their best work**.
+### What I'm exploring
+
+I'm halfway through a **Data Science & AI MSc (Cambridge Spark)** while working full-time, which means most of my side-project energy goes into:
+
+- 🤖 **Agentic workflows** — tool-calling loops, local agents, Claude Code as a daily driver
+- 📊 **Data platforms** — pipelines, analytics infra, turning 'we think' into 'we know'
+- ⚙️ **Developer productivity** — if engineers hate the tooling, the tooling is wrong
+- ☁️ **Reliability** — one very bad on-call experience made me shift from IC to EM 🤡
+
+If you're working on similar things, I'm always up for comparing notes.
 
 ---
 
-### 🧠 Current Interests
-
-- 🤖 AI-assisted and **agentic SDLC**
-- 📊 data engineering and analytics
-- ⚙️ developer productivity
-- ☁️ reliability and operational excellence
-- 🧑‍🏫 growing engineers and future leaders
-
----
-
-### 🛠 Tech I've Worked With
+### 🛠 Stack
 
 <p>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
@@ -51,28 +50,20 @@ I focus on **technical coaching, engineering leadership, and creating environmen
 
 ---
 
-### 🌍 Beyond Engineering
+### 🌍 The non-engineering bits
 
-- 🗣 Speak **6 languages**
-- ✈️ Travelled to **70+ countries**
-- 🤿 **PADI Advanced Open Water Diver**
-- 💻 **48in48 Contributor** – building websites for nonprofits
-- 🏥 **QNUK Level 1 Award in Health & Safety in the Workplace**
-- 🧠 **QNUK Level 1 Award in Mental Health Awareness**
-- 🌏 Strong believer in **global engineering culture**
+- 🗣 **6+ languages** (none perfectly, all confidently wrong)
+- ✈️ **70+ countries**, half via [Couchsurfing](https://www.couchsurfing.com/) — still bad at packing
+- 🤿 [PADI-certified](https://www.padi.com) diver - part-time mermaid 🧜‍♀️
+- 🎤 [Toastmaster](https://www.toastmasters.org/) — public speaking is a muscle 💪
+- 💻 Build websites for nonprofits at [48in48](https://48in48.org)
+- 📚 Early reviewer for [O'Reilly](https://www.oreilly.com) & [Manning](https://www.manning.com)
+- 🌏 Ex-[AnitaB.org](https://anitab.org/) and [GHC](https://ghc.anitab.org/) volunteer
 
-Those experiences shape how I work with teams - I adapt easily to different people, cultures, and perspectives, which helps me actively contribute to **DEIB initiatives and inclusive engineering environments**.
-
----
-
-### 🤝 Community
-
-- 📖 Technical reviewer for **O'Reilly** and **Manning**
-- 🌍 Former **AnitaB.org** and **Grace Hopper Celebration** volunteer
-- 🎤 Toastmaster
+These aren't decorative — they're why I adapt fast across cultures and care about building **inclusive, high-performing teams**. Engineering is a team sport played by humans. And agents. Yes.
 
 ---
 
 <p align="center">
-Always curious about better ways to build software - and better ways to build teams.
+<em>Always curious about better ways to build systems — and the teams behind them.</em>
 </p>
