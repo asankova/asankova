@@ -18,16 +18,16 @@ Backend • Data • Reliability • Agentic Workflows
 
 I lead the team behind **MrQ's casino back-office platform** - the internal tooling that lets operators run the casino, apply regulatory controls, and not accidentally break things for millions of players. Compliance-heavy, data-heavy, uptime-matters-a-lot kind of work.
 
-Day-to-day that means **technical coaching, system design decisions, and creating the conditions where engineers ship their best work** — then getting out of the way.
+Day-to-day that means **technical coaching, system design decisions, and creating the conditions where engineers ship their best work** - then getting out of the way.
 
 ### What I'm exploring
 
 Alumna of [BSUIR](https://www.bsuir.by/en/) and [IST](https://tecnico.ulisboa.pt/en/), I'm halfway through a **Data Science & AI** degree with [Cambridge Spark](https://www.cambridgespark.com/) while working full-time, so most of my leftover energy goes into:
 
-- 🤖 **Agentic workflows** — tool-calling loops, local agents, Claude Code as a daily driver
-- 📊 **Data platforms** — pipelines, analytics infra, turning 'we think' into 'we know'
-- ⚙️ **Developer productivity** — if engineers hate the tooling, the tooling is wrong
-- ☁️ **Reliability** — one very bad on-call experience made me shift from IC to EM 🤡
+- 🤖 **Agentic workflows** - tool-calling loops, local agents, Claude Code as a daily driver
+- 📊 **Data platforms** - pipelines, analytics infra, turning 'we think' into 'we know'
+- ⚙️ **Developer productivity** - if engineers hate the tooling, the tooling is wrong
+- ☁️ **Reliability** - one very bad on-call experience made me shift from IC to EM 🤡
 
 If you're working on similar things, I'm always up for comparing notes.
 
@@ -60,7 +60,7 @@ If you're working on similar things, I'm always up for comparing notes.
 - 📚 Early reviewer for [O'Reilly](https://www.oreilly.com) & [Manning](https://www.manning.com)
 - 🌏 Ex-[AnitaB.org](https://anitab.org/) and [GHC](https://ghc.anitab.org/) volunteer
 
-These aren't decorative — they're why I adapt fast across cultures and care about building **inclusive, high-performing teams**. Engineering is a team sport played by humans. And agents. Yes.
+These aren't decorative - they're why I adapt fast across cultures and care about building **inclusive, high-performing teams**. Engineering is a team sport played by humans 🧠🫀. And agents 🤖. Yes.
 
 ---
 
