@@ -15,7 +15,7 @@ Backend • Data • Reliability • Agentic Workflows
 
 ### What I'm building
 
-Day-to-day: technical coaching, system design decisions, and creating the conditions where engineers ship their best work - then getting out of the way.
+Day-to-day: technical consulting, coaching, system design decisions, and creating the conditions where engineers ship their best work - then getting out of their way.
 
 On the side I run [Siren Tech](https://sirentech.co.uk) - coaching and technology consulting for career changers, engineers, managers and the businesses they build for. Career and interview coaching on one side; AI adoption, architecture, data engineering and reliability on the other.
 
