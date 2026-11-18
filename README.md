@@ -7,60 +7,67 @@ Backend • Data • Reliability • Agentic Workflows
 
 <p align="center">
 🇬🇧 London &nbsp;·&nbsp;
-🎰 <a href="https://www.mrq.com">MrQ</a> &nbsp;·&nbsp;
-<img src="https://cdn.simpleicons.org/spotify" height="16"/> ex-<a href="https://open.spotify.com/">Spotify</a>&nbsp;·&nbsp;
-<img src="https://cdn.simpleicons.org/expedia" height="16"/> ex-<a href="https://expediagroup.com/">Expedia</a>
+<img src="https://cdn.simpleicons.org/spotify" height="16" alt=""/> ex-<a href="https://open.spotify.com/">Spotify</a>&nbsp;·&nbsp;
+<img src="https://cdn.simpleicons.org/expedia" height="16" alt=""/> ex-<a href="https://expediagroup.com/">Expedia</a>
 </p>
 
 ---
 
 ### What I'm building
 
-I lead the team behind **MrQ's casino back-office platform** - the internal tooling that lets operators run the casino, apply regulatory controls, and not accidentally break things for millions of players. Compliance-heavy, data-heavy, uptime-matters-a-lot kind of work.
+Day-to-day: technical coaching, system design decisions, and creating the conditions where engineers ship their best work - then getting out of the way.
 
-Day-to-day that means **technical coaching, system design decisions, and creating the conditions where engineers ship their best work** - then getting out of the way.
+On the side I run [Siren Tech](https://sirentech.co.uk) - coaching and technology consulting for career changers, engineers, managers and the businesses they build for. Career and interview coaching on one side; AI adoption, architecture, data engineering and reliability on the other.
 
 ### What I'm exploring
 
-Alumna of [BSUIR](https://www.bsuir.by/en/) and [IST](https://tecnico.ulisboa.pt/en/), I'm halfway through a **Data Science & AI** degree with [Cambridge Spark](https://www.cambridgespark.com/) while working full-time, so most of my leftover energy goes into:
+Alumna of [BSUIR](https://www.bsuir.by/en/) and [IST](https://tecnico.ulisboa.pt/en/), with a distinction in the **Level 7 Data Science & AI** [apprenticeship](https://www.apprenticeships.gov.uk/) from [Cambridge Spark](https://www.cambridgespark.com/), completed while working full-time.
 
-- 🤖 **Agentic workflows** - tool-calling loops, local agents, Claude Code as a daily driver
-- 📊 **Data platforms** - pipelines, analytics infra, turning 'we think' into 'we know'
-- ⚙️ **Developer productivity** - if engineers hate the tooling, the tooling is wrong
-- ☁️ **Reliability** - one very bad on-call experience made me shift from IC to EM 🤡
+Lifelong learner, currently in these communities:
 
-If you're working on similar things, I'm always up for comparing notes.
+- 🤖 **[BASWE.AI](https://www.skool.com/baswe-ai)** - to get AI/ML engineering right and keep up with what's changing
+- 👾 **[The Multiverse School](https://themultiverse.school/)** - to learn AI by building, in the open, without losing creativity
+- ⚔️ **[WoW Retail](https://worldofwarcraft.blizzard.com/en-us/)** - to learn strategy, coordination, and how to wipe gracefully as a team 🫠
+
+If you're into similar things, I'm always up for comparing notes.
 
 ---
 
 ### 🛠 Stack
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="36" alt="Scala"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36" alt="Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="36" alt="Spark"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" alt="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="36" alt="Prometheus"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" alt="Grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" alt="Google Cloud"/>
+<img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS"/>
 </p>
 
-`Kafka` `Spark` `Airflow` `Iceberg` `BigQuery` `Prometheus` `Grafana` `Claude Code`
+**Data** &nbsp; `Kafka` `Spark` `Databricks` `Airflow` `dbt` `Iceberg` `BigQuery` `Power BI`<br/>
+**Distributed systems** &nbsp; `Memcached` `Kubernetes` `Caching at scale`<br/>
+**Reliability** &nbsp; `SLOs` `Error budgets` `Prometheus` `Grafana` `On-call`<br/>
+**AI/ML** &nbsp; `NLP classification` `Supervised learning` `Agentic SDLC` `Claude`
 
 ---
 
 ### 🌍 The non-engineering bits
 
-- 🗣 **6+ languages** (none perfectly, all confidently wrong)
-- ✈️ **70+ countries**, half via [Couchsurfing](https://www.couchsurfing.com/) - still bad at packing
-- 🤿 [PADI-certified](https://www.padi.com) diver - part-time mermaid 🧜‍♀️
-- 🎤 [Toastmaster](https://www.toastmasters.org/) - public speaking is a muscle 💪
-- 💻 Build websites for nonprofits at [48in48](https://48in48.org)
-- 📚 Early reviewer for [O'Reilly](https://www.oreilly.com) & [Manning](https://www.manning.com)
-- 🌏 Ex-[AnitaB.org](https://anitab.org/) and [GHC](https://ghc.anitab.org/) volunteer
+- 🗣 6+ languages. None perfectly, all confidently ~~wrong~~
+- ✈️ 70+ countries, half via [Couchsurfing](https://www.couchsurfing.com/). Still bad at packing
+- 🧜‍♀️ Part-time mermaid: [PADI](https://www.padi.com) Advanced Open Water and Freediver 🤿
+- 🎤 [Toastmaster](https://www.toastmasters.org/). Public speaking is a muscle 💪
+- 💻 Building websites for nonprofits at [48in48](https://48in48.org)
+- 📚 Technical reviewer for [O'Reilly](https://www.oreilly.com) & [Manning](https://www.manning.com)
+- 🌏 Software Engineering Committee Co-Chair at [AnitaB.org](https://anitab.org/) (2019-2024), ex-[GHC](https://ghc.anitab.org/) volunteer
 
-These aren't decorative - they're why I adapt fast across cultures and care about building **inclusive, high-performing teams**. Engineering is a team sport played by humans 🧠🫀. And agents 🤖. Yes.
+These are why I adapt fast across cultures and care about building inclusive, high-performing teams. Engineering is a team sport played by humans 🧠🫀 (and agents 🤖).
 
 ---
 
